@@ -12,3 +12,4 @@ const account = [
     { month: 8, income: 450, expense: 120 },
     { month: 12, expense: 200 }
 ];
+let month = [ 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'October', 'Noveber', 'December'];
