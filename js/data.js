@@ -12,4 +12,13 @@ const account = [
     { month: 8, income: 450, expense: 120 },
     { month: 12, expense: 200 }
 ];
-let month = [ 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'October', 'Noveber', 'December'];
+
+let month = ['Noveber', 'February', 'January', 'July', 'March', 'April', 'May', 'June', 'August', 'October', 'December'];
+
+for (let i=0; i<account.length; i++){
+    if (account[i].month + income[i]);
+    else {
+        account[i].month + income[i] + expense[i]
+    }
+};
+return;
